@@ -1,4 +1,4 @@
-## Social Event Venue Organiser
+## Event Organiser
 
 A small application I built in Java for a university assignment.
 
